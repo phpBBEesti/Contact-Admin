@@ -5,7 +5,7 @@
 *
 * @copyright 2016 Rich McGirr (RMcGirr83)
 * @license GNU General Public License, version 2 (GPL-2.0)
-*
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 */
 /**
 * DO NOT CHANGE
