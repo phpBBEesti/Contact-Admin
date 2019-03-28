@@ -38,9 +38,9 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'CONTACT_CONFIG_SAVED'			=> 'Contact Board Administration configuration has been updated',
-	'CONTACT_ENABLE'				=> 'Enable Contact Board Administration Extension',
-	'CONTACT_ENABLE_EXPLAIN'		=> 'Enable or disable the extension globally',
-	'CONTACT_ACP_CONFIRM'				=> 'Enable visual confirmation',
+	'CONTACT_ENABLE'				=> 'Luba kontakteerumise laiendus',
+	'CONTACT_ENABLE_EXPLAIN'		=> 'Luba või keela laiendus globaalselt',
+	'CONTACT_ACP_CONFIRM'				=> 'Luba visuaalne kinnitus',
 	'CONTACT_ACP_CONFIRM_EXPLAIN'		=> 'If you enable this option, users will have to enter a visual confirmation to send the message.<br>This is to prevent spam messages. Note that this option is for the contact page only.  It does not affect other visual confirmation settings.',
 	'CONTACT_ATTACHMENTS'				=> 'Attachments allowed',
 	'CONTACT_ATTACHMENTS_EXPLAIN'		=> 'If set attachments will be allowed in posting to the forum and private messages.<br>The extensions allowed are the same as the board configuration.<br><span style="color:red;">Does not apply for contact method via “EMail”.</span>',
@@ -62,18 +62,18 @@ $lang = array_merge($lang, array(
 	'CONTACT_BOT_POSTER_EXPLAIN'	=> 'If set PM’s and posts will seem to come from the contact bot user chosen above based on the settings here. If “Neither” is selected then the bot is not used as the poster.  Posts and PM’s will be posted based on the information entered in the contact form.',
 	'CONTACT_BOT_USER'				=> 'Contact bot user',
 	'CONTACT_BOT_USER_EXPLAIN'		=> 'Select the user that messages will be posted under if the contact method is set to “Private Message” or “Forum Post”.',
-	'CONTACT_USERNAME_CHK'			=> 'Check Username',
+	'CONTACT_USERNAME_CHK'			=> 'Kontrolli kasutajanime',
 	'CONTACT_USERNAME_CHK_EXPLAIN'	=> 'If set yes, the users name that is entered will be checked against those in the database. If a similar name is found the user will be presented with an error and asked to input a different user name.',
-	'CONTACT_EMAIL_CHK'				=> 'Check Email',
+	'CONTACT_EMAIL_CHK'				=> 'Kontrolli e-posti',
 	'CONTACT_EMAIL_CHK_EXPLAIN'		=> 'If set yes, the users email will be checked against those in the database. If a similar email is found the user will be presented with an error and asked to input a different email address.',
 
 	// Contact methods
-	'CONTACT_METHOD_EMAIL'			=> 'Email',
-	'CONTACT_METHOD_PM'				=> 'Private message',
+	'CONTACT_METHOD_EMAIL'			=> 'E-post',
+	'CONTACT_METHOD_PM'				=> 'Privaatsõnum',
 	'CONTACT_METHOD_POST'			=> 'Forum post',
 
 	// Contact posters...user bot
 	'CONTACT_POST_NEITHER'			=> 'Neither',
-	'CONTACT_POST_GUEST'			=> 'Guests only',
-	'CONTACT_POST_ALL'				=> 'Everyone',
+	'CONTACT_POST_GUEST'			=> 'ainult külalised',
+	'CONTACT_POST_ALL'				=> 'Igaüks',
 ));
