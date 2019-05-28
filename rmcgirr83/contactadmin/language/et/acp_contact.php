@@ -43,7 +43,7 @@ $lang = array_merge($lang, array(
 	'CONTACT_ACP_CONFIRM'				=> 'Luba visuaalne kinnitus',
 	'CONTACT_ACP_CONFIRM_EXPLAIN'		=> 'Selle valiku lubamisel peavad kasutajad sõnumi saatmiseks sisestama visuaalse kinnituse.<br>Selle eesmärk on vältida rämpsposti. Pange tähele, et see valik on mõeldud ainult kontaktide lehele. See ei mõjuta muid visuaalse kinnituse seadeid.',
 	'CONTACT_ATTACHMENTS'				=> 'Manused on lubatud',
-	'CONTACT_ATTACHMENTS_EXPLAIN'		=> 'If set attachments will be allowed in posting to the forum and private messages.<br>The extensions allowed are the same as the board configuration.<br><span style="color:red;">Does not apply for contact method via “EMail”.</span>',
+	'CONTACT_ATTACHMENTS_EXPLAIN'		=> 'Kui seadistatud manused on foorumisse ja privaatsõnumite postitamisel lubatud.<br>Lubatud laiendused on samad kui foorumi konfiguratsioon.<br><span style="color:red;">Ei kehti kontaktmeetodi kohta “E-Posti” kohta.</span>',
 	'CONTACT_CONFIRM_GUESTS'			=> 'Visuaalne kinnitus ainult külalistele',
 	'CONTACT_CONFIRM_GUESTS_EXPLAIN'	=> 'Kui see valik on lubatud, kuvatakse visuaalne kinnitus ainult külalistele (kui see on lubatud).',
 	'CONTACT_FOUNDER'					=> 'Võta ühendust ainult foorumi asutajaga',
