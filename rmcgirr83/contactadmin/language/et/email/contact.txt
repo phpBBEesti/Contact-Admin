@@ -1,12 +1,12 @@
 Subject: {SUBJECT}
 
-Hello {ADM_USERNAME},
+Tere {ADM_USERNAME},
 
-An individual by the name of "{USERNAME}" with an email address of "{USER_EMAIL}" and an IP address of "{USER_IP}" on "{DATE}" sent the following message:
+Nimega "{USERNAME}" kelle e-posti aadress on "{USER_EMAIL}" ja IP "{USER_IP}" kuupäeval "{DATE}" saatis järgmise teate:
 
 {MESSAGE}
 
-using the Contact form at "{SITENAME}".
+kasutades kontaktivormi lehele "{SITENAME}".
 
 
 {EMAIL_SIG}
